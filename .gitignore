@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/KMeans/points_5mln_3d_10c.dat
+/KMeans/points_5mln_3d_5c.dat
+/KMeans/points_5mln_4d_5c.dat
+/KMeans/points_5mln_4d_5c.txt
+/KMeans/results_5mln_4d_5c.txt
