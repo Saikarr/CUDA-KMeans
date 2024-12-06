@@ -1,0 +1,3 @@
+Zalecane jest używanie wersji Release
+Argument gpu1 powoduje uzycie kerneli CUDA, gpu2 używa biblioteki thrust
+Jeśli punkty mają dokładnie 3 wymiary to po obliczeniach uruchomi się okienko z wizualizacją, trzymając lewy przycisk myszy i przesuwając myszkę można ruszać widokiem.
